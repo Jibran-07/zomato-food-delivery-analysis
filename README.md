@@ -4,8 +4,6 @@
 
 ### Operational Efficiency, Basket Dynamics & Discount Optimization
 
-<img src="Images/banner.png" alt="Project Banner" width="100%">
-
 </div>
 
 ---
@@ -102,7 +100,8 @@ Zomato-Food-Delivery-Analysis
 │
 ├── Images
 │   ├── Dashboard_1.png
-│   ├── Dashboard_2.png
+│   ├── Dashboard_2-1.png
+|   ├── Dashboard_2-2.png
 │   └── Dashboard_3.png
 │
 └── README.md
@@ -240,7 +239,8 @@ suggesting that aggressive discounting may negatively impact operational quality
 <br><br>
 
 <h3>Basket Analysis Dashboard</h3>
-<img src="Images/Dashboard_2.png" width="90%">
+<img src="Images/Dashboard_2-1.png" width="90%">
+<img src="Images/Dashboard_2-2.png" width="90%">
 
 <br><br>
 
